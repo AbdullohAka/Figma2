@@ -1,0 +1,607 @@
+body {
+    width: 80%;
+    margin: auto;
+    height: 100vh;
+    background-image: url("./Rectangle\ 96.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cbccd4;
+}
+
+.container {
+    width: 1020px;
+
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    text-shadow: 5px solid red;
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: Mrs Saint Delafield;
+    font-size: 58px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+}
+
+button {
+    background-color: rgba(15, 236, 15, 0.829);
+    border-radius: 40px;
+    color: white;
+    width: 140px;
+    height: 60px;
+    border: none;
+}
+
+.ortasi {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.ichi {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 495px;
+    height: 389px;
+    margin-top: 150px;
+    margin-left: 280px;
+    gap: 0px;
+    border-radius: 30px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.h1 {
+    margin-left: 150px;
+    color: white;
+    font-size: 25px;
+}
+
+.h2 {
+    font-family: Neue Haas Unica sans-serif;
+    color: white;
+    font-size: 40px;
+    align-items: baseline;
+}
+
+.h3 {
+    color: white;
+    display: flex;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ikkinchiQismi {
+    width: 350x;
+    height: 986px;
+    top: 1213px;
+    left: 336px;
+    gap: 0px;
+    opacity: 0px;
+    /* border: 3px solid red; */
+}
+
+h4 {
+    font-family: Mrs Saint Delafield;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+}
+
+h5 {
+    font-family: Neue Haas Unica;
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 58px;
+    text-align: center;
+}
+
+h6 {
+    font-family: Neue Haas Unica;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.iikki {
+    width: 100%;
+    height: 986px;
+    display: flex;
+    justify-content: center;
+}
+
+.sozlar {
+    width: 50%;
+    height: 503px;
+    font-family: Neue Haas Unica;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+}
+
+.p1 {
+    font-family: Neue Haas Unica;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+}
+
+.p2 {
+    font-family: Neue Haas Unica;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 44px;
+    text-align: left;
+
+}
+
+.rasm {
+    width: 50%;
+    height: 503px;
+}
+
+.uchinchiQismi {
+    width: 1020px;
+    height: 550px;
+    top: 2287px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F7F4FB;
+}
+
+.uchSozi {
+    font-family: Neue Haas Unica;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 58px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.uchinchiniIchi {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div {
+    background-color: white;
+    width: 215px;
+    height: 260px;
+}
+
+.uchRasmi {
+    /* /* width: 40px;
+    height: 40; */
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.yozuvlar {
+    font-family: Neue Haas Unica;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.01em;
+    text-align: center;
+}
+
+.Enjoy {
+    font-family: Neue Haas Unica;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    align-items: center;
+    text-align: center;
+
+}
+
+.learn {
+    font-family: Neue Haas Unica;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: #00D664;
+
+
+}
+
+.button1 {
+    margin-left: 440px;
+}
+
+.tortinchiQism {
+    width: 1020px;
+    height: 600px;
+    background-image: url(./Rectangle\ 98.svg);
+}
+
+.tortYozuvi {
+    font-family: Neue Haas Unica;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: white;
+
+}
+
+.tortinchiniIchi {
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    background-color: #F7F4FB;
+}
+
+.uchtalik {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Neue Haas Unica;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    text-align: left;
+}
+
+.tortinchinigIchi2 {
+    width: 700px;
+    height: 230px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+}
+
+.tortinchiniIchi4 {
+    margin-left: 25px;
+}
+
+.s1 {
+    font-family: Neue Haas Unica;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #1E266D;
+    margin-top: -60px;
+    margin-left: 70px;
+}
+
+.s2 {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #696969;
+    margin-top: -10px;
+    margin-left: 70px;
+}
+
+.beshinchiQism {
+    width: 1020px;
+    height: 402px;
+    top: 3950px;
+    left: -43px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    background-color: #F5F6FE;
+}
+
+.beshinchiQism1 {
+    width: 510px;
+    height: 402px;
+}
+
+
+#video {
+    margin-top: 60px;
+    margin-left: -60px;
+    width: 670px;
+    height: 350px;
+
+}
+
+.beshinchiQism2 {
+    width: 510px;
+    height: 402px;
+}
+
+.a1 {
+    width: 507px;
+    height: 77px;
+    top: 4130px;
+    left: 1019px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Neue Haas Unica;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 44px;
+    letter-spacing: -0.01em;
+    text-align: left;
+    color: #1E266D;
+}
+
+.a2 {
+    width: 478px;
+    height: 98px;
+    top: 4245px;
+    left: 1019px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Neue Haas Unica;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #7C7C7C;
+}
+
+.engKattadiv {
+    width: 1020px;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+.oltinchiQism {
+    margin-top: 40px;
+    width: 800px;
+    height: 600px;
+    margin-left: 100px;
+}
+
+.oltinchiQismIchi2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.oltinchiQismIchi3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.w1 {
+    font-family: Neue Haas Unica;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 44px;
+    text-align: center;
+    top: 4702px;
+    left: 428px;
+    gap: 0px;
+    opacity: 0px;
+    color: #1E266D;
+}
+
+.dick {
+    width: 170px;
+    height: 220px;
+    align-items: center;
+}
+
+.ovqatlar {
+    width: 170px;
+    height: 180px;
+}
+
+.Yulduz {
+    margin-top: -25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Pullar {
+    font-family: Neue Haas Unica;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+    text-align: left;
+
+}
+
+#btn {
+    margin-top: 30px;
+    margin-left: 340px;
+}
+
+.oltinchiQismSozi {
+    margin-top: -10px;
+}
+
+.yettinchiQism {
+    width: 1020px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.odam {
+    border: 3px solid black;
+    width: 350px;
+    height: 300px;
+    background-color: wheat;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.y1 {
+    background-color: rgba(33, 253, 253, 0.815);
+    border-radius: 40px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
+
+.odamRasmi {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.e1 {
+    margin-left: 100px;
+    margin-top: -50px;
+    font-family: Neue Haas Unica;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    text-align: left;
+    color: #00D664;
+}
+
+.e2 {
+    margin-left: 100px;
+    margin-top: -17px;
+}
+
+.e3 {
+    margin-left: 30px;
+    margin-top: -25px;
+    ;
+}
+
+.smail {
+    width: 16px;
+    height: 16px;
+    margin-top: -504px;
+    margin-left: 120px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.e4 {
+    font-family: Neue Haas Unica;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #696969;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.svg {
+    margin-left: 30px;
+}
+
+
+.sakkizinchiQism {
+    width: 1020px;
+    height: 220px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.t3 {
+    font-family: Neue Haas Unica;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: -0.01em;
+    text-align: center;
+}
+
+.t1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.t2 {
+    margin-left: 50px;
+}
+
+.input {
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #EDFCF4;
+}
+
+
+.rating label:before {
+    content: '\2605';
+    font-size: 20px;
+}
+
+.ToqqizinchiQism {
+    border: 3px solid red;
+    width: 100%;
+    height: 500px;
+}
+
+#img3 {
+    width: 100%;
+    height: 100%;
+}
+
+
+.OninchiQism {
+    border: 3px solid #00D664;
+    width: 100%;
+    height: 300px;
+}
+
+.o2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.o3 {
+    display: flex;
+    gap: 20px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+.o4{
+    display:flex;
+    gap: 20px;
+}
+.rating input:checked~label,
+.rating label:hover,
+.rating label:hover~label {
+    color: gold;
+    transition: 0.3s;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+}
